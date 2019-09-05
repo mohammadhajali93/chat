@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197700015594",
+    "firebase_url": "https://lostthing1-3d316.firebaseio.com",
+    "project_id": "lostthing1-3d316",
+    "storage_bucket": "lostthing1-3d316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197700015594:android:c1432d01d2fa9143",
+        "android_client_info": {
+          "package_name": "com.mohammadhajali.lost_thing1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197700015594-hejcf9fe361aqcvl1o6hsihd5lrasnd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohammadhajali.lost_thing1",
+            "certificate_hash": "1374c04c6fd2d5bafbd1092405e9008d7c7b4a65"
+          }
+        },
+        {
+          "client_id": "197700015594-iocbuetnr9i3umbdov60qip6kpln9m9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZ1yzxLEzgNX-SWvdM6tHpyp11XTZX0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197700015594-iocbuetnr9i3umbdov60qip6kpln9m9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
